@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T04:43:16.582Z" agent="5.0 (Macintosh)" etag="vkDpAghulXpvtjb0bwyH" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T04:49:24.670Z" agent="5.0 (Macintosh)" etag="MVljCLpoMz6NBeSJdaAK" version="13.7.6" type="github">
   <diagram id="nP4e0wWjYFi-qGmSvCJ1" name="Page-1">
     <mxGraphModel dx="914" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,13 +19,13 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-25" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-13">
           <mxGeometry x="49" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-10" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-25">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-10" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-25">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-26" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-13">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-9" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-26">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-9" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-26">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-23" value="L" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-27">
@@ -37,7 +37,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-28" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="305" y="10" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-12" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-28">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-12" value="" style="shape=lineEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-28">
           <mxGeometry x="5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-22" value="Send" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-28">
@@ -46,7 +46,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-30" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="210" y="10" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-6" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-30">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-6" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-30">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-20" value="7/8" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-30">
@@ -55,7 +55,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-31" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="160" y="10" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-5" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-31">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-5" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-31">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-19" value="5/6" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-31">
@@ -64,7 +64,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-32" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="110" y="10" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-4" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-32">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-4" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-32">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-18" value="3/4" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-32">
@@ -73,7 +73,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-33" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="60" y="10" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-3" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-33">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-3" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-33">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-17" value="2" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-33">
@@ -82,7 +82,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-34" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="10" y="10" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-1" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-34">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-1" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-34">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-16" value="&lt;div style=&quot;font-size: 14px;&quot; align=&quot;center&quot;&gt;1&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-34">
@@ -91,7 +91,7 @@
         <mxCell id="vf_FHtImUIUmnImsqS4j-40" value="" style="group" vertex="1" connectable="0" parent="vf_FHtImUIUmnImsqS4j-43">
           <mxGeometry x="260" y="10" width="45" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vf_FHtImUIUmnImsqS4j-41" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-40">
+        <mxCell id="vf_FHtImUIUmnImsqS4j-41" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-40">
           <mxGeometry width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vf_FHtImUIUmnImsqS4j-42" value="9/10" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="vf_FHtImUIUmnImsqS4j-40">
